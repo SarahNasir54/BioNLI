@@ -1,5 +1,5 @@
 # BioNLI
-*We have used a competition dataset from CodaLab whose link is https://github.com/ai-systems/Task-2-SemEval-2024/tree/main
+* We have used a competition dataset from CodaLab whose link is https://github.com/ai-systems/Task-2-SemEval-2024/tree/main
 * The NLI4CT Task-2-SemEval-2024 corpus consists of 2,400 statements divided into three datasets for training, development, and testing. The training dataset contains 1,750 statements, the development dataset contains 208 statements, and the test dataset contains 5,667 statements.
 # Models Description
 # DeBERTa-v3-base-mnli-fever-anli
